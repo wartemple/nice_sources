@@ -6,3 +6,4 @@
 - https://tamats.com/projects/litegraph/editor/
 - https://reactflow.dev/
 - https://vueflow.dev/
+- https://github.com/a63149300/vue-flow-design-plus
